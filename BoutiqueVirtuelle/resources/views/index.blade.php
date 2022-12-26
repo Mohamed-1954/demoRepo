@@ -11,7 +11,7 @@
       </header>
       <table class="table-info table-striped table-hover">
         <thead>
-            <tr class="bg-secondary">
+            <tr class="bg-secondary border-danger">
                 <th scope="col">ID</th>
                 <th scope="col">Designation</th>
                 <th scope="col">Catégorie</th>
